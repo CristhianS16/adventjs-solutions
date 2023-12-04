@@ -1,4 +1,4 @@
-# Challenge #1: Ponemos en marcha la fábrica!
+# Challenge #2: Ponemos en marcha la fábrica!
 
 En el taller de Santa, los elfos tienen una **lista de regalos** que desean fabricar y un conjunto limitado de materiales.
 

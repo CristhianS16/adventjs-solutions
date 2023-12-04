@@ -18,7 +18,7 @@ Here you can find my solutions for all the puzzles in every edition.
 | :---: | :------------: | :-----------------------------------------------: | :----------------------: | :---------------------: | :---: | -------- |
 |  01   |       🟢        | [Open](https://adventjs.dev/es/challenges/2023/1) | [See](2023/01/README.md) | [See](2023/01/index.js) | `360` |
 |  02   |       🟢        | [Open](https://adventjs.dev/es/challenges/2023/2) | [See](2023/02/README.md) | [See](2023/02/index.js) | `280` |
-|  03   |       -        |                        TBD                        |           TBD            |           TBD           |  TBD  |
+|  03   |       🟢        | [Open](https://adventjs.dev/es/challenges/2023/3) | [See](2023/03/README.md) | [See](2023/03/index.js) | `270` |
 |  04   |       -        |                        TBD                        |           TBD            |           TBD           |  TBD  |
 |  05   |       -        |                        TBD                        |           TBD            |           TBD           |  TBD  |
 |  06   |       -        |                        TBD                        |           TBD            |           TBD           |  TBD  |
